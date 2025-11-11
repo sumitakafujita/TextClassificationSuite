@@ -8,3 +8,9 @@ wheels/
 
 # Virtual environments
 .venv
+
+# 環境変数
+.env
+
+# data
+*.csv
