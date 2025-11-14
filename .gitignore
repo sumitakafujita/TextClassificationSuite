@@ -14,3 +14,7 @@ wheels/
 
 # data
 *.csv
+*.pdf
+
+# Vector store artifacts
+artifacts/
